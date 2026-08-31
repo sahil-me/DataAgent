@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# ADK local/session data
+.adk/
+*.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
