@@ -197,7 +197,7 @@ DataAgent/
 
 ### Project Source Code
 
-<img width="1366" height="768" alt="Project Source Code" src="https://github.com/user-attachments/assets/2d835773-4cdb-4c24-97cd-0b2de01479bd" />
+<img width="1366" height="691" alt="Project Source Code" src="https://github.com/user-attachments/assets/8f4faf56-77de-45b5-9c55-948cba6fd3f3" />
 
 ### Cloud Run Overview
 
