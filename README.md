@@ -103,7 +103,8 @@ DataAgent/
 └── SECURITY.md
 ```
 
-> The `data_agent/` directory contains the main ADK agent implementation, dependencies, and environment configuration used by the project.
+> [!NOTE]
+> The `data_agent/` directory contains the main Google ADK agent implementation, dependencies, and environment configuration used by the project.
 
 ---
 
