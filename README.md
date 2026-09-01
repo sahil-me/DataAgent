@@ -4,6 +4,9 @@ https://github.com/user-attachments/assets/3b66184a-22de-4a2b-8d26-8f0f5c8836f5
 
 > 🎥 Watch **DataAgent** in action!
 
+> [!CAUTION]
+> The Cloud Run deployment is currently unavailable because the Google Cloud project has exhausted its available credits. The project was previously deployed and tested successfully on Google Cloud Run.
+
 ---
 
 ## Table of Contents
