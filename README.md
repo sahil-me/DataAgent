@@ -267,15 +267,15 @@ The official codelab demonstrates how to:
 
 The following improvements could be considered in future iterations of **DataAgent**:
 
-- Expanded Data Sources: Support additional BigQuery datasets and structured data sources.
-- Advanced Analytics: Support more complex analytical questions and multi-step analysis.
-- Data Visualization: Generate charts and visualizations from query results.
-- Conversation Memory: Add improved contextual memory for longer analytical conversations.
-- Multi-Dataset Support: Allow the agent to analyze multiple datasets and tables.
-- Query Optimization: Improve generated SQL for performance and cost efficiency.
-- Automated Evaluation: Add evaluation cases for SQL correctness, grounding, and analytical accuracy.
-- Observability: Add improved logging, monitoring, and tracing for agent and MCP performance.
-- Additional MCP Tools: Integrate additional MCP servers and tools for broader data access.
+- **Expanded Data Sources:** Support additional BigQuery datasets and structured data sources.
+- **Advanced Analytics:** Support more complex analytical questions and multi-step analysis.
+- **Data Visualization:** Generate charts and visualizations from query results.
+- **Conversation Memory:** Add improved contextual memory for longer analytical conversations.
+- **Multi-Dataset Support:** Allow the agent to analyze multiple datasets and tables.
+- **Query Optimization:** Improve generated SQL for performance and cost efficiency.
+- **Automated Evaluation:** Add evaluation cases for SQL correctness, grounding, and analytical accuracy.
+- **Observability:** Add improved logging, monitoring, and tracing for agent and MCP performance.
+- **Additional MCP Tools:** Integrate additional MCP servers and tools for broader data access.
 
 ---
 
